@@ -1,0 +1,14 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Config with private addresses — keep local, don't publish
+# (addresses are baked into index.html intentionally, but the config
+# source file doesn't need to be in the public repo)
+config.yaml
